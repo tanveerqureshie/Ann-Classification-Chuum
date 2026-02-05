@@ -1,6 +1,6 @@
-streamlit>=1.30.0
+streamlit>=1.30
+tensorflow==2.15.1
 protobuf<5
-tensorflow
 pandas
 numpy
 scikit-learn
